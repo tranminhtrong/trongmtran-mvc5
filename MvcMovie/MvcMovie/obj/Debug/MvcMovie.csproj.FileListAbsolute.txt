@@ -94,3 +94,6 @@ D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\bin\Microsoft.AI.Web.xml
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
