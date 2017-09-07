@@ -97,3 +97,4 @@ D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+D:\bai-tap\trongmtran-mvc5\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
