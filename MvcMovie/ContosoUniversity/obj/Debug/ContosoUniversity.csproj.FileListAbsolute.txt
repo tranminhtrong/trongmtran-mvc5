@@ -69,3 +69,7 @@ D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\EntityFramework.dll
 D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\EntityFramework.xml
 D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\PagedList.dll
+D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\PagedList.xml
+D:\bai-tap\trongmtran-mvc5\MvcMovie\ContosoUniversity\bin\PagedList.Mvc.xml
